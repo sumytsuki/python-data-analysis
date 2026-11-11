@@ -112,3 +112,5 @@ This project was developed with assistance from OpenAI Codex as part of my hands
 The project supports my exploration of data processing, visualization, statistical methods, and analytical interpretation.
 
 ---
+
+*Part of my [Python Data Analysis](../) project collection.*
